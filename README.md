@@ -9,6 +9,11 @@
 <img width="200px" src="docs/images/logo.png"/>
 </center>
 
+## Team
+   - Miguel Neto  
+   - Rafael Peres
+   - Willian Augusto
+
 ## Stories
 
 As a <b>member of the community</b>, I would like to list files by environment type, so that my search is more efficient in the objective in want to achieve.
