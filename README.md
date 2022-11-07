@@ -1,6 +1,6 @@
 ## Prelude
 
-<b>JSONDOC</b> é uma plataforma open source de documentação de API's. O processo da criação da documentação é bem simples e rápido, pois, é gerada a partir de um JSON.
+<b>JSONDOC</b> is a open source plataform of API documentation. The process of document creation is very simple and fast, then, is generating by JSON structure.
 
 <br />
 
