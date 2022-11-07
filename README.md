@@ -1,6 +1,6 @@
 ## Prelude
 
-<b>Terraform hub</b> is an open source repositories service created with the aim of sharing pre-configured environments in terraform format and assisting in their development.
+<b>JSONDOC</b> é uma plataforma open source de documentação de API's.
 
 <br />
 
@@ -16,17 +16,14 @@
 
 ## Stories
 
-As a <b>member of the community</b>, I would like to list files by environment type, so that my search is more efficient in the objective in want to achieve.
 
-As a <b>member of the community</b>, I'd like to vote for the environment files that make the most sense for the given context, so thast it ranks better and can be be found by more people.
+As a <b>member of the community</b>, I'd like to generate documentation for my API, so that other developers on the team can have more autonomy when using it.
 
-As a <b>member of the community</b>, I would like to bookmark environment files and add them to my arsenal so that i can center my preferences.
+As a <b>member of the community</b>, I'd like to generate documentation for my API through a JSON file, so that the process of generating the API becomes something simple and fast.
 
-As a <b>member of the community</b>, I would like to share a file link as an image to preview the code to a friend.
+As a <b>member of the community</b>, I'd like to have access to all routes, parameters, description and all information regarding the API, so that the team does not make mistakes in development.
 
-As a <b>adminstrator</b>, I would like to exclude environment files if they contain sensitive information, to protect the whole community.
-
-As a <b>member of the community</b>, I would like to create new categories to be able to a do a better filter.
+As a <b>member of the community</b>, I'd like to download the generated documentation so it can be made available to team members.
 
 <br />
 
@@ -38,6 +35,3 @@ As a <b>member of the community</b>, I would like to create new categories to be
 
 <br />
 
-### Schema
-
-<img width="100%" src="docs/images/schema.png"/>
